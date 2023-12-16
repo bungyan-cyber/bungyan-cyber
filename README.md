@@ -24,7 +24,7 @@
     <a href="https://www.linkedin.com/in/DianPratama" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
     <!-- Gantilah tautan YouTube dengan tautan ke kanal YouTube Anda -->
     <!-- Contoh: <a href="https://www.youtube.com/channel/YourChannelID" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="32px" alt="Youtube"></a> -->
-    <a href="https://trakteer.id/bungyan-cyber" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+    
   </p>
 </div>
 
