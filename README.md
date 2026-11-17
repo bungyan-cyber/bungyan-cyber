@@ -1,56 +1,81 @@
-# Dian Pratama - DevOps Engineer 👋
-
-![My Card](https://cardivo.vercel.app/api?name=Dian%20Pratama&description=Hi,%20I'm%20a%20DevOps%20Engineer.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/bungyan-cyber?v=4&backgroundColor=%23ecf0f1&instagram=bungyan&linkedin=Dian%20Pratama&github=bungyan-cyber&pattern=topography&colorPattern=%23eaeaea)
+# Dian Pratama | DevOps Engineer 👋
 
 <div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=bungyan-cyber&label=VIEWS&style=plastic&color=lightgrey" />
-  </p>
-  <br/> 
-  
 
-  
-  <!-- Gantilah gambar dengan URL gambar yang sesuai dengan tool DevOps yang digunakan -->
-  <!-- Contoh: <code><img height="24px" src="https://example.com/devops-tool.png"></code> -->
-  
-  <br/>
+  <img src="https://github.com/bungyan-cyber.png?size=180" width="150" alt="Dian Pratama GitHub Profile" />
 
-  <p>
-    📫 Follow Me On
-  </p>
+  ### DevOps Engineer | Cloud Infrastructure | Automation
 
-  <p>
-    <a href="https://www.instagram.com/bungyan" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
-    <a href="https://www.linkedin.com/in/DianPratama" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
-    <!-- Gantilah tautan YouTube dengan tautan ke kanal YouTube Anda -->
-    <!-- Contoh: <a href="https://www.youtube.com/channel/YourChannelID" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="32px" alt="Youtube"></a> -->
-    
-  </p>
+  Building reliable infrastructure, automating deployments, and improving system observability.
+
+  [![GitHub](https://img.shields.io/badge/GitHub-bungyan--cyber-181717?style=for-the-badge&logo=github)](https://github.com/bungyan-cyber)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/DianPratama)
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/bungyan)
+
 </div>
 
-<details>
-  <summary>My stats on Github</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=bungyan-cyber&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bungyan-cyber&theme=vue">
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bungyan-cyber&theme=tokyonight&hide_border=true" />
-  </p>
-</details>
+---
 
-<details>
-  <summary>My Wakatime breakdown</summary>
-  <!-- Gantilah tautan Wakatime dengan tautan Wakatime Anda -->
-  <!-- Contoh: <p align="center"><img src="https://example.com/wakatime-stats.png" /></p> -->
-  <p align="center">
-    <!-- Gantilah tautan Wakatime dengan tautan Wakatime Anda -->
-    <!-- Contoh: <img src="https://example.com/wakatime-stats.png" /> -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bungyan-cyber&layout=compact&theme=vue" />
-    <!-- Gantilah tautan Wakatime dengan tautan Wakatime Anda -->
-    <!-- Contoh: <img src="https://example.com/activity-graph.png" /> -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bungyan-cyber&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
-  </p>
-</details>
+## 👨‍💻 About Me
 
-<!--START_SECTION:waka-->
+I'm a DevOps Engineer focused on infrastructure management, cloud platforms, CI/CD automation, containerization, monitoring, and system reliability.
 
-<!--END_SECTION:waka-->
+I enjoy building and maintaining infrastructure that is secure, scalable, observable, and reliable.
+
+- ☁️ Cloud infrastructure and server administration
+- 🐳 Containerization and Docker Compose
+- 🔄 CI/CD pipeline automation
+- 📊 Monitoring and observability
+- 🔐 Infrastructure security and access management
+- 🚀 Deployment automation and troubleshooting
+
+## 🛠️ Tech Stack
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+
+**Containerization & CI/CD**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Monitoring & Database**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Version Control & Scripting**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
+## 📌 Featured Work
+
+Explore my repositories and technical projects:
+
+- [DevOps Technical Test](https://github.com/bungyan-cyber/dat-devops-technical-test)
+- [GitHub Repositories](https://github.com/bungyan-cyber?tab=repositories)
+
+## 📈 GitHub Activity
+
+Check my latest contributions and projects directly on GitHub:
+
+[![GitHub Contributions](https://img.shields.io/badge/View-GitHub_Contributions-2EA44F?style=for-the-badge&logo=github)](https://github.com/bungyan-cyber?tab=overview)
+
+---
+
+<div align="center">
+
+  **Thanks for visiting my profile!** 🚀
+
+  Feel free to connect and collaborate.
+
+</div>
